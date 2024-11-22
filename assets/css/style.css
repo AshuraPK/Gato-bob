@@ -1,0 +1,56 @@
+
+
+body {
+    background-image: url(../img/gato-bob.jfif);
+    background-size: cover; /* Ajusta a imagem para cobrir toda a tela */
+    background-repeat: no-repeat; /* Evita a repetição da imagem */
+}
+
+#login-bob {
+    /* background-image: url('../img/login.jfif'); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20px;
+    width: 300px;
+    margin: 100px auto;
+    width: 585px;
+    height: 690px;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 0.5); /* Ajuste para garantir contraste */
+    border-radius: 8px;
+}
+h1{
+color: #292929;
+font-family: Inter;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+h2{
+    color: #4F4F4F;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+h3{
+    color: #545454;
+font-family: "IBM Plex Serif";
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.bataozuzim{
+    border-radius: 8px;
+    background: #0366FF;
+    width: 312px;
+    height: 62px;
+    flex-shrink: 0;
+}
